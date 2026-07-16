@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Priyanshu 👋
 
-<!--
-**priyanshuprajapati987/priyanshuprajapati987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solo developer building AI-powered personal automation systems from the ground up — no team, no funding, just code and curiosity.
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**JARVES** — an Iron Man-inspired personal AI assistant with a full production stack:
+- Flask backend + React/Vite/TypeScript frontend
+- Multi-LLM routing (OpenRouter + local Ollama fallback)
+- Long-term memory via Mem0 + Qdrant vector store
+- Real-time voice pipeline (STT/TTS) for natural conversation
+- Workflow automation with n8n
+- Computer control via Open Interpreter
+- 170+ API routes and growing
+
+**EDITH** — the mobile companion app for JARVES, built with Expo/React Native.
+
+**OpenMontage** — an AI-driven video production pipeline for automated YouTube content creation, using n8n + Gemini for scripting.
+
+## 🛠️ Tech I work with
+
+`Python` `Flask` `React` `TypeScript` `Tailwind` `Zustand` `n8n` `Qdrant` `Docker` `PowerShell`
+
+## 🎯 Currently
+
+- Deploying JARVES infra to run 24/7 without keeping my PC on
+- Exploring self-hosted, privacy-first alternatives to commercial AI assistants
+- Documenting and open-sourcing pieces of the JARVES stack
+
+## 📫 Reach me
+
+- LinkedIn: [add your link]
+- Email: [add your email]
+
+---
+*Building in public, one commit at a time.*
