@@ -29,8 +29,8 @@ Solo developer building AI-powered personal automation systems from the ground u
 
 ## 📫 Reach me
 
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: www.linkedin.com/in/priyanshu-prajapati-a2a9942b4
+- Email: priyanshuprajapati2693@gmail.com
 
 ---
 *Building in public, one commit at a time.*
