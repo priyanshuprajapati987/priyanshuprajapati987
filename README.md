@@ -1,36 +1,31 @@
-# Hi, I'm Priyanshu 👋
+name: Generate Snake Animation
 
-Solo developer building AI-powered personal automation systems from the ground up — no team, no funding, just code and curiosity.
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs once a day
+  workflow_dispatch: # allows manual trigger
+  push:
+    branches:
+      - main
 
-## 🚀 What I'm building
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-**JARVES** — an Iron Man-inspired personal AI assistant with a full production stack:
-- Flask backend + React/Vite/TypeScript frontend
-- Multi-LLM routing (OpenRouter + local Ollama fallback)
-- Long-term memory via Mem0 + Qdrant vector store
-- Real-time voice pipeline (STT/TTS) for natural conversation
-- Workflow automation with n8n
-- Computer control via Open Interpreter
-- 170+ API routes and growing
-
-**EDITH** — the mobile companion app for JARVES, built with Expo/React Native.
-
-**OpenMontage** — an AI-driven video production pipeline for automated YouTube content creation, using n8n + Gemini for scripting.
-
-## 🛠️ Tech I work with
-
-`Python` `Flask` `React` `TypeScript` `Tailwind` `Zustand` `n8n` `Qdrant` `Docker` `PowerShell`
-
-## 🎯 Currently
-
-- Deploying JARVES infra to run 24/7 without keeping my PC on
-- Exploring self-hosted, privacy-first alternatives to commercial AI assistants
-- Documenting and open-sourcing pieces of the JARVES stack
-
-## 📫 Reach me
-
-- LinkedIn: www.linkedin.com/in/priyanshu-prajapati-a2a9942b4
-- Email: priyanshuprajapati2693@gmail.com
-
----
-*Building in public, one commit at a time.*
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
