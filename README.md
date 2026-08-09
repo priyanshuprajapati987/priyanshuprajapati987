@@ -13,7 +13,7 @@
 
 I build end-to-end AI systems solo — from backend architecture to frontend UX to voice pipelines. No team, no funding, just code and curiosity.
 
-- 🤖 Currently building **JARVES** — an Iron Man-inspired personal AI assistant with multi-LLM routing, long-term memory (Mem0 + Qdrant), voice interaction, and workflow automation
+- 🤖 Currently building **ORBIT** — an Iron Man-inspired personal AI assistant with multi-LLM routing, long-term memory (Mem0 + Qdrant), voice interaction, and workflow automation
 - 📱 Building **EDITH**, the mobile companion app, with Expo/React Native
 - 🎬 Built **OpenMontage** — an AI-driven automated video production pipeline
 - 🧠 170+ API routes and growing, all self-hosted
