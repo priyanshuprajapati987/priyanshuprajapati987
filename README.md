@@ -265,14 +265,13 @@
 
 <div align="center">
 
-<!-- GitHub Stats - using shields.io instead of vercel -->
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshuprajapati987&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF4500&text_color=FFFFFF&bg_color=0d1117" alt="stats" onerror="this.style.display='none'"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuprajapati987&hide_border=true&background=0d1117&stroke=FF0000&ring=FF4500&fire=FF0000&currStreakLabel=FF0000&sideLabels=FF4500&dates=FF4500&currStreakNum=FF0000&sideNums=FF4500" alt="streak" onerror="this.style.display='none'"/>
+<!-- GitHub Stats - using ghstats.dev (WORKING SERVICE) -->
+<img src="https://ghstats.dev/api/card?username=priyanshuprajapati987&bg=0d1117&text_color=ffffff&title_color=FF0000&icon_color=FF4500&border_color=FF0000&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuprajapati987&layout=compact&hide_border=true&langs_count=8&title_color=FF0000&text_color=FFFFFF&bg_color=0d1117" alt="top-langs" onerror="this.style.display='none'"/>
+<!-- Top Languages - using ghstats.dev -->
+<img src="https://ghstats.dev/api/card?username=priyanshuprajapati987&type=lang&bg=0d1117&text_color=ffffff&title_color=FF0000&border_color=FF0000&layout=compact&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -282,7 +281,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshuprajapati987&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" onerror="this.style.display='none'"/>
+<!-- Trophy - using a working alternative -->
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshuprajapati987&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>🏆 Trophies loading... Check back later!</p>'"/>
 
 </div>
 
@@ -292,7 +292,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshuprajapati987&bg_color=0d1117&color=FF0000&line=FF4500&point=FF0000&area=true&area_color=1A0A00&hide_border=true" alt="activity-graph" onerror="this.style.display='none'"/>
+<!-- Activity Graph - using ghstats.dev activity -->
+<img src="https://ghstats.dev/api/card?username=priyanshuprajapati987&type=activity&bg=0d1117&text_color=ffffff&title_color=FF0000&border_color=FF0000&hide_border=true" alt="Activity" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>📈 Activity loading... Check back later!</p>'"/>
 
 </div>
 
@@ -302,19 +303,20 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuprajapati987&theme=2077" width="100%" alt="profile-details" onerror="this.style.display='none'"/>
+<!-- Profile Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuprajapati987&theme=2077" width="100%" alt="Profile Details" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>📊 Profile details loading... Check back later!</p>'"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshuprajapati987&theme=2077" alt="repos-per-language" onerror="this.style.display='none'"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshuprajapati987&theme=2077" alt="Repos per Language" onerror="this.style.display='none'"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuprajapati987&theme=2077" alt="most-commit-language" onerror="this.style.display='none'"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuprajapati987&theme=2077" alt="Most Commit Language" onerror="this.style.display='none'"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshuprajapati987&theme=2077" alt="stats-card" onerror="this.style.display='none'"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshuprajapati987&theme=2077" alt="Stats Card" onerror="this.style.display='none'"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshuprajapati987&theme=2077&utcOffset=5.5" alt="productive-time" onerror="this.style.display='none'"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshuprajapati987&theme=2077&utcOffset=5.5" alt="Productive Time" onerror="this.style.display='none'"/>
 
 </div>
 
@@ -324,7 +326,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshuprajapati987/priyanshuprajapati987/output/github-contribution-grid-snake.svg" alt="snake" onerror="this.style.display='none'"/>
+<img src="https://raw.githubusercontent.com/priyanshuprajapati987/priyanshuprajapati987/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>🐍 Snake animation coming soon!</p>'"/>
 
 </div>
 
