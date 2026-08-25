@@ -265,68 +265,13 @@
 
 <div align="center">
 
-<!-- GitHub Stats - using ghstats.dev (WORKING SERVICE) -->
+<!-- GitHub Stats Card -->
 <img src="https://ghstats.dev/api/card?username=priyanshuprajapati987&bg=0d1117&text_color=ffffff&title_color=FF0000&icon_color=FF4500&border_color=FF0000&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
-<br/>
+<br/><br/>
 
-<!-- Top Languages - using ghstats.dev -->
+<!-- Top Languages Card -->
 <img src="https://ghstats.dev/api/card?username=priyanshuprajapati987&type=lang&bg=0d1117&text_color=ffffff&title_color=FF0000&border_color=FF0000&layout=compact&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-## `> trophy-case --display`
-
-<div align="center">
-
-<!-- Trophy - using a working alternative -->
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshuprajapati987&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>🏆 Trophies loading... Check back later!</p>'"/>
-
-</div>
-
----
-
-## `> activity-graph --timeline`
-
-<div align="center">
-
-<!-- Activity Graph - using ghstats.dev activity -->
-<img src="https://ghstats.dev/api/card?username=priyanshuprajapati987&type=activity&bg=0d1117&text_color=ffffff&title_color=FF0000&border_color=FF0000&hide_border=true" alt="Activity" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>📈 Activity loading... Check back later!</p>'"/>
-
-</div>
-
----
-
-## `> contribution-report --detailed`
-
-<div align="center">
-
-<!-- Profile Summary Cards -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuprajapati987&theme=2077" width="100%" alt="Profile Details" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>📊 Profile details loading... Check back later!</p>'"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priyanshuprajapati987&theme=2077" alt="Repos per Language" onerror="this.style.display='none'"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=priyanshuprajapati987&theme=2077" alt="Most Commit Language" onerror="this.style.display='none'"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=priyanshuprajapati987&theme=2077" alt="Stats Card" onerror="this.style.display='none'"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=priyanshuprajapati987&theme=2077&utcOffset=5.5" alt="Productive Time" onerror="this.style.display='none'"/>
-
-</div>
-
----
-
-## `> snake-animation.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/priyanshuprajapati987/priyanshuprajapati987/output/github-contribution-grid-snake.svg" alt="Snake Animation" onerror="this.outerHTML='<p style=&quot;color:#FF4500&quot;>🐍 Snake animation coming soon!</p>'"/>
 
 </div>
 
@@ -345,6 +290,16 @@
 | **Databases** | MongoDB, PostgreSQL, Redis, Qdrant | 🟢🟢🟢⚪⚪ | 7000 |
 | **DevOps** | Docker, Kubernetes, Git, GitHub Actions, Linux | 🟢🟢🟢🟢⚪ | 8000 |
 | **Tools** | VS Code, Postman, Figma, Notion, Terminal | 🟢🟢🟢🟢⚪ | 8500 |
+
+</div>
+
+---
+
+## `> snake-animation.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/priyanshuprajapati987/priyanshuprajapati987/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </div>
 
