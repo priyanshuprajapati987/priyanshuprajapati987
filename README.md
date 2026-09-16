@@ -15,7 +15,7 @@
 
 I'm a developer focused on **AI systems and full-stack applications**. I build tools that work — from backend infrastructure to frontend interfaces.
 
-**Current focus:** Self-hosted AI assistants, multi-model orchestration, and voice-enabled AI systems.
+**Current focus:** Self-hosted AI assistants, multi-model orchestration, game automation, and voice-enabled AI systems.
 
 **Education:** B.Sc. IT completed, currently pursuing M.Sc. IT
 
@@ -28,6 +28,7 @@ I'm a developer focused on **AI systems and full-stack applications**. I build t
 I work on AI-powered systems that combine multiple capabilities:
 
 - **AI Agents** — Systems that can reason, use tools, and maintain context
+- **Game Automation** — Offline AI agents that can play games autonomously
 - **Multi-Model Orchestration** — Routing tasks across different AI models
 - **Voice Interfaces** — Speech-to-text and text-to-speech integration
 - **Web Applications** — Full-stack apps with modern frameworks
@@ -36,6 +37,23 @@ I work on AI-powered systems that combine multiple capabilities:
 ---
 
 ## Featured Projects
+
+### [Game Agent](https://github.com/priyanshuprajapati987/game-agent)
+
+**What:** Generic game automation agent that uses offline AI to play games autonomously — no API keys required.
+
+**Key Features:**
+- Fully offline — runs locally without external APIs
+- Multiple AI backends — CV Only, Ollama, LLaMA.cpp, Transformers
+- Multi-agent support for parallel task execution
+- Auto-learning capabilities
+- Human-like behavior with anti-detection
+
+**Stack:** Python, OpenCV, Ollama, LLaMA.cpp, HuggingFace Transformers
+
+**Status:** Available
+
+---
 
 ### [ORBIT Website](https://github.com/priyanshuprajapati987/orbit-website)
 
@@ -76,7 +94,7 @@ I work on AI-powered systems that combine multiple capabilities:
 | **Languages** | Python, JavaScript, TypeScript, HTML, CSS |
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Flask, FastAPI |
-| **AI/ML** | Multi-model routing, Agent systems, Voice AI |
+| **AI/ML** | OpenCV, Ollama, LLaMA.cpp, HuggingFace, Multi-model routing, Agent systems, Voice AI |
 | **Tools** | Git, Docker, VS Code, Linux |
 
 ---
@@ -84,6 +102,7 @@ I work on AI-powered systems that combine multiple capabilities:
 ## Currently Working On
 
 - **ORBIT** — Self-hosted AI assistant with multi-model routing and voice interaction
+- **Game Agent** — Offline AI-powered game automation
 - **AI Agent Systems** — Building agents that can use tools and maintain context
 - **Voice Integration** — Adding speech capabilities to AI systems
 
