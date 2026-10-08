@@ -38,11 +38,24 @@ I'm a developer focused on **AI systems and full-stack applications**. I build t
 - **Game Automation** — Offline AI agents that can play games autonomously
 - **Multi-Model AI** — Local LLM setups with Ollama and HuggingFace models
 - **Video + Content Tools** — AI-assisted script, voiceover, and video pipelines
+- **Engineering Software** — Parametric design, simulation, and code-check automation
 - **Web Applications** — Full-stack apps with modern frameworks
 
 ---
 
 ## Featured Projects
+
+### [Building Design Simulator](https://github.com/priyanshuprajapati987/building-design-simulator)
+
+**What:** AI + parametric preliminary building design — plain-English brief in, 3 structural alternatives out, with IS-code checks (IS 1893 / IS 875 / IS 456), OpenSeesPy FEA verification, auto-optimisation, city-wise cost estimates, 2D drawings + interactive 3D, and a PDF report. Preliminary design only — not for construction.
+
+**Run:** `python main.py "Design a 10-floor residential building in Mumbai..."` or `python main.py --web`
+
+**Stack:** Python, OpenSeesPy, Streamlit/custom UI, IFC export
+
+**Status:** v0.1.0 shipped — 215 tests passing (per repo README)
+
+---
 
 ### [ORBIT](https://github.com/priyanshuprajapati987/ORBIT)
 
@@ -152,6 +165,7 @@ I'm a developer focused on **AI systems and full-stack applications**. I build t
 
 ## Currently Working On
 
+- **Building Design Simulator** — AI + parametric building design with IS-code checks and FEA
 - **ORBIT** — Minecraft AI agent system (multi-agent, skills, memory, vision, local Ollama)
 - **Game Agent** — Offline game automation with local AI backends
 - **YOUTUBAIAGENT** — AI-assisted video/script/voiceover pipeline
